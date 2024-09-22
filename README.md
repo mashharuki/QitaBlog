@@ -18,7 +18,7 @@ Qitaに投稿した記事を管理するリポジトリです。
 - ログイン
 
   ```bash
-  yarn login
+  npx qiita login
   ```
 
 - 記事投稿
