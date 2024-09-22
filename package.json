@@ -1,0 +1,19 @@
+{
+  "name": "QitaBlog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mashharuki/QitaBlog.git",
+  "author": "mashharuki",
+  "license": "MIT",
+  "scripts": {
+    "init": "npx qiita init",
+    "login": "npx qiita login",
+    "pull": "npx qiita pull",
+    "preview": "npx qiita preview",
+    "new": "npx qiita new",
+    "publish": "npx qiita publish"
+  },
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.5.0"
+  }
+}
