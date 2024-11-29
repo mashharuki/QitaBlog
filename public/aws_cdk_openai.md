@@ -7,8 +7,8 @@ tags:
   - CDK
   - langchain
 private: false
-updated_at: '2024-11-29T21:11:00+09:00'
-id: c001c49bacd1b397d5d0
+updated_at: '2024-11-29T21:12:50+09:00'
+id: 5eaa6596aec1cc1a8415
 organization_url_name: null
 slide: false
 ignorePublish: false
