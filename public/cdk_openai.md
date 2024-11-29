@@ -3,11 +3,11 @@ title: CDKとLangChainとOpenAI APIで簡易RAGを実装してみた！
 tags:
   - AWS
   - TypeScript
+  - LangChain
   - OpenAI
   - CDK
-  - langchain
 private: false
-updated_at: '2024-11-29T21:06:02+09:00'
+updated_at: '2024-09-22T12:56:07+09:00'
 id: c001c49bacd1b397d5d0
 organization_url_name: null
 slide: false
