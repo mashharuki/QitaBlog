@@ -5,7 +5,7 @@ tags:
   - TypeScript
   - OpenAI
   - CDK
-  - langchain
+  - LangChain
 private: false
 updated_at: '2024-11-29T21:12:50+09:00'
 id: 5eaa6596aec1cc1a8415
