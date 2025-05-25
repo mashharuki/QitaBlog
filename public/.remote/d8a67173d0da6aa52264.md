@@ -7,7 +7,7 @@ tags:
   - solana
   - 生成AI
 private: false
-updated_at: "2025-05-25T14:40:14+09:00"
+updated_at: '2025-05-25T14:40:14+09:00'
 id: d8a67173d0da6aa52264
 organization_url_name: null
 slide: false
