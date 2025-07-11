@@ -1,14 +1,14 @@
 ---
 title: mcp.jsonのenvfileプロパティを使って安全に環境変数を管理しよう！
 tags:
-  - 'MCP'
-  - 'AIエージェント'
-  - '生成AI'
-  - 'VSCode'
-  - '環境変数'
+  - 環境変数
+  - VSCode
+  - MCP
+  - 生成AI
+  - AIエージェント
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-07-12T08:52:12+09:00'
+id: 2c79e25487a36897e1f6
 organization_url_name: null
 slide: false
 ignorePublish: false
