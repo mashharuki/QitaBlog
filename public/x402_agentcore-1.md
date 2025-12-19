@@ -1,14 +1,14 @@
 ---
 title: Amazon Bedrock AgentCoreとCDKとMastraとx402で構築する金融AIエージェント！
 tags:
-  - "Mastra"
-  - "TypeScript"
-  - "AWS"
-  - "生成AI"
-  - "Web3"
+  - AWS
+  - TypeScript
+  - Web3
+  - 生成AI
+  - Mastra
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-19T23:58:00+09:00'
+id: 452db39cac5eeee15f21
 organization_url_name: unchain-tech
 slide: false
 ignorePublish: false
