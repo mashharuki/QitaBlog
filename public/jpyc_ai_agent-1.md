@@ -1,14 +1,14 @@
 ---
 title: MastraとJPYC SDKで作る金融AIエージェント！
 tags:
-  - "Mastra"
-  - "TypeScript"
-  - "MCP"
-  - "生成AI"
-  - "Web3"
+  - TypeScript
+  - MCP
+  - Web3
+  - 生成AI
+  - Mastra
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-19T23:36:42+09:00'
+id: 62b7eeb9b71dda836d20
 organization_url_name: unchain-tech
 slide: false
 ignorePublish: false
