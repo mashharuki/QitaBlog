@@ -9,7 +9,7 @@ tags:
 private: true
 updated_at: ''
 id: null
-organization_url_name: nuchain-tech
+organization_url_name: unchain-tech
 slide: false
 ignorePublish: false
 ---
