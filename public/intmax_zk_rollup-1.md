@@ -6,10 +6,10 @@ tags:
   - "Web3"
   - "plasma"
   - "intmax"
-private: true
+private: false
 updated_at: ''
 id: null
-organization_url_name: null
+organization_url_name: unchain-tech
 slide: false
 ignorePublish: false
 ---
