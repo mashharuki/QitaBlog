@@ -6,8 +6,8 @@ tags:
   - Web3
   - 生成AI
   - Mastra
-private: true
-updated_at: '2025-12-19T23:36:42+09:00'
+private: false
+updated_at: '2025-12-22T22:50:01+09:00'
 id: 62b7eeb9b71dda836d20
 organization_url_name: null
 slide: false

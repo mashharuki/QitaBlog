@@ -1,14 +1,14 @@
 ---
 title: イーサリアム創始者も注目！？ Plasmaを再発明したINTMAXを徹底解剖
 tags:
-  - "ethereum"
-  - "ゼロ知識証明"
-  - "Web3"
-  - "plasma"
-  - "intmax"
+  - Ethereum
+  - plasma
+  - ゼロ知識証明
+  - Web3
+  - intmax
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-22T22:50:02+09:00'
+id: 69d6cece5732733ff7ee
 organization_url_name: unchain-tech
 slide: false
 ignorePublish: false

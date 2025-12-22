@@ -1,14 +1,14 @@
 ---
 title: Bitcoin MCPとStrands Agentを使ってBitcoin AIエージェントを作ろう！
 tags:
-  - "Web3"
-  - "AI"
-  - "MCP"
-  - "StrandsAgent"
-  -  "Hono"
+  - AI
+  - MCP
+  - Web3
+  - Hono
+  - StrandsAgent
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-22T22:50:02+09:00'
+id: 0148e7407016741fb336
 organization_url_name: unchain-tech
 slide: false
 ignorePublish: false
