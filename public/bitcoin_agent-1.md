@@ -6,7 +6,7 @@ tags:
   - "MCP"
   - "StrandsAgent"
   -  "Hono"
-private: false
+private: true
 updated_at: ''
 id: null
 organization_url_name: nuchain-tech

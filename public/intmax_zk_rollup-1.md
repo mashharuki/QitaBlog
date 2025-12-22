@@ -6,7 +6,7 @@ tags:
   - "Web3"
   - "plasma"
   - "intmax"
-private: false
+private: true
 updated_at: ''
 id: null
 organization_url_name: null
