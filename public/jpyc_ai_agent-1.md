@@ -6,10 +6,10 @@ tags:
   - Web3
   - 生成AI
   - Mastra
-private: false
+private: true
 updated_at: '2025-12-19T23:36:42+09:00'
 id: 62b7eeb9b71dda836d20
-organization_url_name: unchain-tech
+organization_url_name: null
 slide: false
 ignorePublish: false
 ---
