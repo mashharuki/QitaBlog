@@ -7,7 +7,7 @@ tags:
   - Web3
   - intmax
 private: false
-updated_at: '2025-12-22T22:50:02+09:00'
+updated_at: '2025-12-23T23:43:00+09:00'
 id: 69d6cece5732733ff7ee
 organization_url_name: unchain-tech
 slide: false
