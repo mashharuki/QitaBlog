@@ -1,14 +1,14 @@
 ---
 title: 【AWS初心者向け】Lambda Authorizerで学ぶAPI認証の基礎とハンズオン実装
 tags:
-  - "aws"
-  - "lambda"
-  - "認証"
-  - "cognito"
-  - "cdk"
+  - AWS
+  - lambda
+  - 認証
+  - cognito
+  - CDK
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-01-14T22:33:47+09:00'
+id: 60ca15600c4a8cdfc148
 organization_url_name: null
 slide: false
 ignorePublish: false
