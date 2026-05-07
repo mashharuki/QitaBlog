@@ -7,7 +7,7 @@ tags:
   - Web3
   - x402
 private: false
-updated_at: '2026-05-08T00:43:50+09:00'
+updated_at: '2026-05-08T00:50:49+09:00'
 id: 54bd2a912344f5ee2223
 organization_url_name: null
 slide: false
