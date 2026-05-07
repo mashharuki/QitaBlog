@@ -1,5 +1,5 @@
 ---
-title: Amazon Bedrock AgentCore Paymentsが発表されたので試す直前まで頑張ってみた！
+title: Amazon Bedrock AgentCore Paymentsが発表されたので動かす直前まで頑張ってみた！
 tags:
   - Python
   - AWS
